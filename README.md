@@ -9,4 +9,4 @@
 * Check out my Resume by clicking [here!](https://github.com/blacknyx/blacknyx/blob/main/Portfolio/Resume.md)
 
 ## Portfolio
-* Check out my Portfolio by clicking [here!](https://github.com/blacknyx/blacknyx/blob/main/Portfolio/Portfolio.md)
+* Check out my Portfolio by clicking [here!](https://artifyr-portfolio.vercel.app/)
