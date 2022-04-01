@@ -1,7 +1,7 @@
 ### Heyy! I'm Shivaji Datta! 👋
 
 - 🔭 I’m currently working on an NFT Marketplace
-- 🌱 I’m currently learning NextJS and Blockchain
+- 🌱 I’m currently learning NextJS and the Blockchain
 - 💬 Ask me about Blender and Python
 - 📫 How to reach me: nyxedout@gmail.com
 
