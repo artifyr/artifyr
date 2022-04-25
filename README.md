@@ -6,7 +6,7 @@
 - 📫 How to reach me: nyxedout@gmail.com
 
 ## Resume
-* Check out my Resume by clicking [here!](https://github.com/blacknyx/blacknyx/blob/main/Portfolio/Resume.md)
+* Check out my Resume by clicking [here!](https://github.com/artifyr/artifyr/blob/main/Portfolio/Resume.md)
 
 ## Portfolio
-* Check out my Portfolio by clicking [here!](https://artifyr-portfolio.vercel.app/)
+* Check out my Portfolio by clicking [here!](https://artifyr.vercel.app/)
