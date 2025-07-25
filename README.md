@@ -1,6 +1,6 @@
 ### Heyy! I'm Shivaji Datta! 👋
 
-- 🔭 I’m currently working on an NFT Marketplace
+- 🔭 I’m currently building Inferlysis
 - 🌱 I’m currently learning NextJS, Blockchain and GPT-3
 - 💬 Ask me about Blender and Python
 - 📫 How to reach me: nyxedout@gmail.com
