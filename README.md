@@ -6,9 +6,9 @@
 ---
 
 ## 🛰️ CURRENT OPERATIONS
-
 * **PRIMARY DIRECTIVE:** Engineering and maintaining high-availability **Mainframe Storage** architectures for enterprise-scale operations.
 * **CONCURRENT DEPLOYMENTS:** Architecting distributed web environments utilizing diverse **JavaScript ecosystems**, and building core systems for **Inferlysis**.
+* **TACTICAL INTELLIGENCE:** Leading development of **Aegis Tactical Dashboard** — a high-performance, real-time geospatial command system featuring 3D holographic mapping (Mapbox GL JS), live asset telemetry, Neural Observer (YOLOv11), and cinematic camera systems.
 * **ACTIVE R&D:** Orchestrating **Agentic AI** frameworks for autonomous operations; continuous integration of advanced LLMs (**GPT-3**) and decentralized protocols (**Blockchain**).
 
 ## ⚙️ TECHNICAL CAPABILITIES & RAPID PROTOTYPING
