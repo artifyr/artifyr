@@ -1,4 +1,4 @@
-# Shivaji Datta
+# Shivaji
 
 Software engineer and systems developer focused on local LLM inference orchestration, computational neural modeling, and high-availability enterprise storage systems.
 
