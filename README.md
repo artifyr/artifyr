@@ -43,9 +43,6 @@ Software engineer and systems developer focused on local LLM inference orchestra
 - Systems and OS: IBM z/OS, Mainframe architecture, JCL, REXX
 - High-Availability Storage: IBM DS8000 (DS8K), Virtual Tape Subsystems, Disaster Recovery protocols
 
-### 3D and Computational Tools
-- Modeling and Tooling: Blender 3D, procedural generation ([d2fy](https://github.com/artifyr/d2fy)), computer vision map processing ([EmissionMapGenerator](https://github.com/artifyr/EmissionMapGenerator)), additive manufacturing workflows
-
 ---
 
 ## Contact
