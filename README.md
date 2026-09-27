@@ -1,34 +1,54 @@
-# SHIVAJI DATTA
-### MAINFRAME INFRASTRUCTURE // AGENTIC AI // ROBUST WEB DEV
+# Shivaji Datta
 
-> "Architecting mission-critical storage systems while advancing decentralized web infrastructure, autonomous AI, and rapid additive manufacturing."
-
----
-
-## 🛰️ CURRENT OPERATIONS
-* **PRIMARY DIRECTIVE:** Engineering and maintaining high-availability **Mainframe Storage** architectures for enterprise-scale operations.
-* **CONCURRENT DEPLOYMENTS:** Architecting distributed web environments utilizing diverse **JavaScript ecosystems**, and building core systems for **Inferlysis**.
-* **TACTICAL INTELLIGENCE:** Leading development of **[Aegis Tactical Dashboard](https://aegisintel.vercel.app/)** — a high-performance, real-time geospatial command system featuring 3D holographic mapping (Mapbox GL JS), live asset telemetry, Neural Observer (YOLOv11), and cinematic camera systems.
-* **ACTIVE R&D:** Orchestrating **Agentic AI** frameworks for autonomous operations; continuous integration of advanced LLMs (**GPT-3**) and decentralized protocols (**Blockchain**).
-
-## ⚙️ TECHNICAL CAPABILITIES & RAPID PROTOTYPING
-
-| System Domain | Applied Frameworks & Disciplines |
-| :--- | :--- |
-| **Mission-Critical Systems** | Mainframe Storage Protocols, Python Automation, System Architecture |
-| **Autonomous Intelligence** | Agentic AI Integration, GPT-3, LLM Orchestration |
-| **Full-Stack Environments** | NextJS, Broad-spectrum JavaScript, Blockchain |
-| **Spatial & Additive** | 3D Modeling (Blender), Additive Manufacturing (3D Printing), Rapid Prototyping |
-
-*Clearance granted for inquiries regarding Mainframe infrastructure, Python-driven automation, and 3D printing pipelines.*
+Software engineer and systems developer focused on local LLM inference orchestration, computational neural modeling, and high-availability enterprise storage systems.
 
 ---
 
-## 📡 TELEMETRY & COMMS
+## Open Source Projects
 
-* **[PORTFOLIO // INTERACTIVE DATAPAD](https://artifyr.vercel.app/)**
-* **[RESUME // MISSION DOSSIER](https://github.com/artifyr/artifyr/blob/main/Portfolio/Resume.md)**
-* **SECURE COMM LINK:** [nyxedout@gmail.com](mailto:nyxedout@gmail.com)
+- **[LLauncher](https://github.com/artifyr/LLauncher)**  
+  Local model inference orchestrator and hardware tuner for `llama.cpp` (`llama-server.exe`). Provides dynamic memory and context allocation, automated backend parameter tuning (CPU/GPU offloading, quantization profiles), and continuous server lifecycle management for local AI workloads.
+
+- **[NeuroFly](https://github.com/artifyr/NeuroFly)**  
+  Whole-brain connectome simulation of adult *Drosophila melanogaster* (138,584 neurons, 15M synapses). Powered by PyTorch Leaky Integrate-and-Fire (LIF) Spiking Neural Networks (SNN), embodied as an autonomous neural agent with closed-loop sensory-motor control in a 3D simulation environment.
 
 ---
-*STATUS: OPERATIONAL // INITIATING NEXT SEQUENCE...*
+
+## Selected Private Projects
+
+- **Aegis**  
+  Real-time geospatial intelligence and situational monitoring dashboard featuring 3D terrain rendering (Mapbox GL JS), computer vision analysis (YOLOv11 neural observer), live telemetry ingestion, and interactive camera tracking.
+
+- **Inferlysis**  
+  High-throughput data intelligence and visualization platform designed for parsing, analyzing, and monitoring distributed application metrics and inference telemetry.
+
+---
+
+## Technical Stack and Skills
+
+### AI, Machine Learning and Local Inference
+- Inference and Runtimes: `llama.cpp`, GGUF quantization, local model deployment, GPU context offloading, hardware profiling
+- Neural Modeling and Simulation: PyTorch, Spiking Neural Networks (LIF), neuromorphic connectome modeling
+- Vision and Agent Systems: YOLOv11 computer vision, agentic workflows, LLM API orchestration
+
+### Core Languages and Backend
+- Languages: Python, TypeScript, JavaScript (ES6+), Node.js, C++ fundamentals
+- APIs and Data: RESTful APIs, WebSockets, real-time data streaming, system-level scripting and automation
+
+### Web and Interface Engineering
+- Frontend Frameworks: React, Next.js, HTML5, Modern CSS / Tailwind CSS
+- Visualization and 3D: WebGL, Mapbox GL JS, dynamic interactive dashboards
+
+### Enterprise Infrastructure and Storage
+- Systems and OS: IBM z/OS, Mainframe architecture, JCL, REXX
+- High-Availability Storage: IBM DS8000 (DS8K), Virtual Tape Subsystems, Disaster Recovery protocols
+
+### 3D and Computational Tools
+- Modeling and Tooling: Blender 3D, procedural generation ([d2fy](https://github.com/artifyr/d2fy)), computer vision map processing ([EmissionMapGenerator](https://github.com/artifyr/EmissionMapGenerator)), additive manufacturing workflows
+
+---
+
+## Contact
+
+- GitHub: [@artifyr](https://github.com/artifyr)
+- Email: [nyxedout@gmail.com](mailto:nyxedout@gmail.com)
