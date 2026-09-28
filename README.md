@@ -12,15 +12,15 @@ Mainframe engineer by day, AI and systems developer by night. Currently focused 
 - **[NeuroFly](https://github.com/artifyr/NeuroFly)**  
   Whole-brain connectome simulation of adult *Drosophila melanogaster* (138,584 neurons, 15M synapses). Powered by PyTorch Leaky Integrate-and-Fire (LIF) Spiking Neural Networks (SNN), embodied as an autonomous neural agent with closed-loop sensory-motor control in a 3D simulation environment.
 
+- **[Aegis](https://github.com/artifyr/Aegis/)**  
+  Real-time geospatial intelligence and situational monitoring dashboard featuring 3D terrain rendering (Mapbox GL JS), computer vision analysis (YOLOv11 neural observer), live telemetry ingestion, and interactive camera tracking.
+
 ---
 
 ## Selected Private Projects
 
-- **Aegis**  
-  Real-time geospatial intelligence and situational monitoring dashboard featuring 3D terrain rendering (Mapbox GL JS), computer vision analysis (YOLOv11 neural observer), live telemetry ingestion, and interactive camera tracking.
-
 - **Inferlysis**  
-  High-throughput data intelligence and visualization platform designed for parsing, analyzing, and monitoring distributed application metrics and inference telemetry.
+  High-throughput data intelligence and visualization platform designed for parsing, analyzing, and monitoring BCI application metrics and inference telemetry.
 
 ---
 
